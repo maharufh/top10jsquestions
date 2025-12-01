@@ -3,7 +3,9 @@ these are important specially for interview
 
 
 Here are 10 important JavaScript concepts frequently encountered in interviews and essential for a strong understanding of the language:
+
 Closures: Explain what a closure is, how it's created, and provide an example demonstrating its utility, such as data privacy or creating function factories.
+
 Prototypes and Prototypal Inheritance: Describe JavaScript's prototypal inheritance model, how objects inherit properties and methods, and the role of __proto__ and prototype.
 Asynchronous JavaScript (Callbacks, Promises, Async/Await): Explain the need for asynchronous programming in JavaScript and differentiate between callbacks, Promises, and the more modern async/await syntax for handling asynchronous operations.
 var, let, and const: Detail the differences in scope, hoisting, and re-assignment behavior between these three keywords for variable declaration.
